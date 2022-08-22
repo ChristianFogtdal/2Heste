@@ -9,3 +9,19 @@ vaccinations
 https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a
 
 sleep 305 seconds for 100 per day
+
+ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+model interpretability
+feature importance (https://github.com/slundberg/shap?fbclid=IwAR2WhNxVWajXMMscJPeIj2D04ZCBERl_7-KU8_u6CHvESMr0ibBbo8PQfDM)
+
+
+
+to do
+wordcloud pos/neg words eller freq words
+
+søjlediagram for mest brugte ord
+
+tabel pos/neg words
+
+machine learning ift stat
